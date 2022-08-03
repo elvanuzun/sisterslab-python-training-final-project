@@ -18,15 +18,15 @@
 
 Veri setleri games_details, games, players, ranking ve teams'tir.
 
-- games_details (df1): Oyun idlerine göre oyuncular hakkında detaylı bilgileri içerir.
+- **games_details (df1)**: Oyun idlerine göre oyuncular hakkında detaylı bilgileri içerir.
 
-- games (df2): Maç istatistiklerini ve maçlar hakkında genel bilgiler bu dosyada yer almaktadır.
+- **games (df2)**: Maç istatistiklerini ve maçlar hakkında genel bilgiler bu dosyada yer almaktadır.
 
-- players (df3): Oyuncular hakkında bilgileri içeren dosyadır.
+- **players (df3)**: Oyuncular hakkında bilgileri içeren dosyadır.
 
-- ranking (df4): Her takımın sezonlara göre yaptığı maç sayısı, kazandığı maç sayısı vb. bilgileri içerir.
+- **ranking (df4)**: Her takımın sezonlara göre yaptığı maç sayısı, kazandığı maç sayısı vb. bilgileri içerir.
 
-- teams (df5): Takıma ait  detaylı bilgileri içerir.
+- **teams (df5)**: Takıma ait  detaylı bilgileri içerir.
 
 
 ## Yapılan analiz işlemleri  aşağıda listelenmiştir:
