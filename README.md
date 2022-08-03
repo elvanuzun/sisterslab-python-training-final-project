@@ -1,4 +1,4 @@
-# sisterslab-python-training-final-project
+# Women in Tech Academy Bitirme Projesi
 
 <img width="900px" src="https://user-images.githubusercontent.com/94361819/182606493-1bc1601a-bda2-4156-9209-66f62cc5ed91.gif"></a>
 
